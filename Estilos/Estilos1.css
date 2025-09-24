@@ -1,0 +1,98 @@
+.MisionT {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    color:rgb(0, 0, 161);
+}
+.Parr1 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 28px;
+    text-align: justify;
+}
+.Parr2 {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 28px;
+    text-align: justify;
+}
+.ProyectosTitle {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    text-align: center;
+    color:rgb(107, 181, 182);
+}
+.Proyecto1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 28px;
+}
+.Proyecto2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 28px;
+}
+.APPImg {
+    width: 100%;             
+    max-width: 400px;        
+    height: auto;            
+    border-radius: 12px;
+    padding: 20px 0;  
+}
+.Descripcion1 {
+    font-family: 'Times New Roman', Times, serif;
+}
+.SubDescr {
+    font-family: cursive;
+}
+.WebImg {
+    width: 100%;             
+    max-width: 700px;        
+    height: auto;            
+    border-radius: 12px;
+    padding: 20px 0;
+}
+.Descripcion2 {
+    font-family: 'Times New Roman', Times, serif;
+}
+.SubDescr2 {
+    font-family: cursive;
+}
+table {
+    border-collapse: collapse;
+    width: 40%;
+    background-color: #111827;
+    box-shadow: 0px 4px 8px rgba(0,0,0,0.1);
+    border-radius: 10px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+    color: #e5e7eb;
+}
+.Title {
+    font-size: 22px;
+}
+th, td {
+    padding: 15px;
+    text-align: left;
+}
+th {
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+    background-color: #373888;
+}
+td {
+    font-size: 22px;
+}
+tr:hover {
+    background-color: #4b4b4b;
+}
+.Pie {
+    font-size: 20px;
+    color: rgb(61, 61, 61);
+    padding: 20px 0;
+}
+.Pie2 {
+    font-size: 20px;
+    color: rgb(61, 61, 61);
+    padding: 1px 0;
+}
+body {
+    background: linear-gradient(135deg, #414345, #615ba1 , #7470b8, #5e58c0 , #333399);
+}
